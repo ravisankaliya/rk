@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main ()
+void main () // find out are of rectangle
 {
     float length = 50.25;
     float width = 75.50;
