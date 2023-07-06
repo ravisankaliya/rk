@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main ()
+ void main ()      // write a program to peform spit of any 3 digit number
 {
     int number = 0;
     int num1= 0;
