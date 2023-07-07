@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main ()
+ // example of modulus
 {
     int number1 = 5;
     int number2=2;
