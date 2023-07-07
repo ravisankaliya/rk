@@ -14,4 +14,4 @@ void main ()
     num3= number -( num1*100+num2*10);
 
     printf(" your answer is num1 %d and num2 is %d and num3 is %d",num1 ,num2,num3);   
-}
+}               
