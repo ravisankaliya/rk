@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main ()
+// write a program to perform of spit any three digit number
 {
     int number = 0;
     int first=0;
