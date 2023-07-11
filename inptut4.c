@@ -4,6 +4,7 @@ void main ()
 {
     int number1 = 5;
     int number2=2;
+    
     float answer =0;
 
     answer = number1/number2;
