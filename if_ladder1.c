@@ -1,7 +1,7 @@
 # include<stdio.h>
  void main()
   {
-
+  // write a programe to findout wether the given alphabet is vowel or not
     char latter = '.';
 
     printf("enter value of latter ");
