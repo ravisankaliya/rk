@@ -62,7 +62,12 @@ else if ( month == 2 && date>=19 && date <=31 || month == 3 && date <= 20 && dat
     printf("it is pisces");
 }
 
+else
+{
 
+printf( good byy);
+
+}
 
 
 
