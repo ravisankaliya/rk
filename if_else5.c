@@ -6,7 +6,7 @@ int year = 0;
 printf("enter value of years");
 scanf("%d",&year);
 
-if (year >=1000 )
+if (year%1000  == 0)
 {
     printf("it is  milinium year");
 }
