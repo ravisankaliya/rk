@@ -1,5 +1,7 @@
 #include<stdio.h> 
 void main()
+// write a programe to print two digit number in words 
+
 {
 
 int number = 0;
