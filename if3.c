@@ -18,12 +18,11 @@ void main ()
 printf("\ngood byy");
 
 
-
-
-
-
-
-
-
-
 }
+
+
+
+
+
+
+
