@@ -15,9 +15,10 @@ while (number< 3000)
 printf("%d",answer);
 number1 = number1 +3;
 
-number = answer + number1;
-printf("%d",number);
-number1 =  number1+ 3;
+number =number + number1;
+printf("%d,number");
+number1=number1 +3;
+
 }
 
 
