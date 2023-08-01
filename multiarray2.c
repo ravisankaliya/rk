@@ -43,7 +43,8 @@ sum = total[0]+ total[1]+total[2]+total[3]+total[4];
 printf("\ntotal goal of all player is %d",sum);
 for(count=0;count<5;count++)
 {
-average[count]= match[count][0]+match[count][1]+match[count][2]+ match[count][3]+ match[count][4] /5;
+average[count]= match[count][0]+match[count][1]+match[count][2]+ match[count][3]+ match[count][4];
+average[count] = average[count] /5;
 printf("\n%d match average is %f",count+1,average[count]);
 }
 
