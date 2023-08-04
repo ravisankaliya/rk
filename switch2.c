@@ -94,6 +94,10 @@ switch( option)
     }
     break;
 
+    default:
+    printf("invalid number ");
+    break;
+
 }
 
 
