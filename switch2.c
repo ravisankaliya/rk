@@ -13,8 +13,8 @@ void main()
 
 {
 
-    int number1 = 0 , number2 = 0, answer = 0 , option = 0 ;
-
+    int number1 = 0 , number2 = 0,  option = 0, answer =0 ;
+ 
 printf("enter value of number1");
 scanf("%d",&number1);
 printf("enter value of number2");
