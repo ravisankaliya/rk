@@ -75,7 +75,7 @@ switch( option)
     case 7 :
     if(number1< number2)
     {
-        printf("tnumber a is smaller");
+        printf("number a is smaller");
     }
     else if (number2<number1)
     {
