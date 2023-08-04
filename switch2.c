@@ -38,48 +38,48 @@ switch( option)
 {
     case  1 :
     answer = number1 = number2;
-    printf(" the value of answer is %d",answer);
+    printf(" the value of answer is %d\n",answer);
     break;
 
     case 2 :
     answer = number1 - number2;
-    printf("the value of answer is %d",answer);
+    printf("the value of answer is %d\n",answer);
     break;
 
     case 3:
     answer = number1 * number2;
-    printf(" the value of answer is %d",answer);
+    printf(" the value of answer is %d\n",answer);
     break;
 
     case 4:
     answer = number1 /number2;
-    printf("the value of answer is %d",answer);
+    printf("the value of answer is %d\n",answer);
     break;
 
     case 5 :
     answer = number1 % number2;
-    printf("the value of answer is  %d",answer);
+    printf("the value of answer is  %d\n",answer);
     break;
 
     case 6 :
     if(number1>number1)
     {
-        printf("number1  is grater");
+        printf("number1  is grater\n");
     }
     else if (number2 >number1)
     {
-        printf("number2 is grater");
+        printf("number2 is grater\n");
     }
     break;
 
     case 7 :
     if(number1< number2)
     {
-        printf("number a is smaller");
+        printf("number a is smaller\n");
     }
     else if (number2<number1)
     {
-        printf("number2 smaller");
+        printf("number2 smaller\n");
     }
     break;
 
@@ -90,7 +90,7 @@ switch( option)
     }
     else
     {
-        printf("not same");
+        printf("not same\n");
     }
     break;
 
